@@ -89,3 +89,8 @@ DATASOURCE_USER: postgres
 DATASOURCE_PASSWORD: postgres
 ZIPKIN_BASE_URL: http://zipkin-collector:9411
 AUTH_SERVICE_ENDPOINT: http://authorization-service:8100/api
+GOOGLE_CLIENT_ID: 912050282042-ais7fbu2uns1u3go9eoe6l8iaiv3iruo.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET: 5Ex-92yP7Q1YU_TmgtVXiYR5
+FACEBOOK_CLIENT_ID: '1670650839666976'
+FACEBOOK_CLIENT_SECRET: 97e1e2cfb217a1730563ad1361bda51c
+BASE_URL: https://ford.gleeze.com
