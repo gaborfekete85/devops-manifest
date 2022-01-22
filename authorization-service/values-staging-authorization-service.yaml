@@ -8,7 +8,7 @@ image:
   repository: gabendockerzone/authorization-service
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "latest"
+  tag: "e41e2293"
 
 imagePullSecrets: []
 nameOverride: ""
