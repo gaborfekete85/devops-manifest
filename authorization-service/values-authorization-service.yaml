@@ -84,7 +84,7 @@ tolerations: []
 
 affinity: {}
 
-DATASOURCE_URL: jdbc:postgresql://postgres-postgresql.managed/postgres?currentSchema=crime_authorization
+DATASOURCE_URL: jdbc:postgresql://postgres-postgresql.managed/postgres?currentSchema=ford_auth
 DATASOURCE_USER: postgres
 DATASOURCE_PASSWORD: postgres
 ZIPKIN_BASE_URL: http://zipkin-collector:9411
